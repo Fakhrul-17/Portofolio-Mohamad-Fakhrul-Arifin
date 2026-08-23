@@ -1,0 +1,40 @@
+PORTOFOLIO — Mohamad Fakhrul Arifin
+=====================================
+Project ini sudah lengkap dan siap dijalankan.
+
+CARA MENJALANKAN
+-----------------
+1. Buka folder ini di terminal / VS Code.
+2. Jalankan:  npm install
+3. Jalankan:  npm run dev
+4. Buka link yang muncul di terminal (biasanya http://localhost:5173)
+
+Sudah selesai — tidak ada langkah setup lain yang diperlukan.
+(Butuh Node.js dulu kalau belum ada di komputer kamu — unduh versi LTS di nodejs.org)
+
+MENGISI KONTEN ASLI
+--------------------
+Kode portofolionya ada di:  src/App.jsx
+Semua bagian yang perlu diganti (email, WhatsApp, GitHub, LinkedIn, link
+repo/live demo tiap proyek) ditandai komentar "// GANTI:" di dalam file
+itu — tinggal cari pakai Ctrl+F.
+
+Foto profil, CV, dan screenshot proyek ada di folder public/assets/ —
+semuanya sudah diberi nama file yang benar dan siap dipakai. Tinggal:
+  1. Buka file placeholder-nya (masih bertuliskan "GANTI FOTO PROFIL" dsb.)
+  2. Timpa (overwrite) dengan foto/screenshot/CV asli kamu
+  3. Simpan dengan NAMA FILE YANG SAMA PERSIS
+
+  public/assets/foto-profil.jpg
+  public/assets/cv-mohamad-fakhrul-arifin.pdf
+  public/assets/projects/anggrayini-nove.jpg
+  public/assets/projects/chill.jpg
+  public/assets/projects/absensi-penggajian.jpg
+  public/assets/projects/tk-haniyah.jpg
+
+SETELAH SIAP DI-DEPLOY
+------------------------
+Kalau sudah puas dan ingin publish supaya bisa diakses publik, project
+ini bisa langsung di-deploy ke Vercel atau Netlify (gratis) — tinggal
+hubungkan ke akun GitHub kamu. Tanya Claude lagi kalau sudah sampai di
+tahap ini, akan dibantu langkah deploy-nya.
