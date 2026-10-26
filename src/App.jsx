@@ -45,7 +45,7 @@ const PROFILE = {
   whatsapp: "62895359804169",
   photo: "assets/profil.jpeg",
   cvUrl:
-    "assets/CV_Mohamad_Fakhrul_Arifin.pdf",
+    "assets/CV Mohamad Fakhrul Arifin (1).pdf",
 
   aboutMe: `
 Saya Muhamad Fakhrul Arifin, seorang Fullstack Web Developer dan mahasiswa Sistem Informasi dengan spesialisasi dalam rekayasa perangkat lunak secara end-to-end. Kapabilitas saya mencakup perancangan arsitektur basis data, pengembangan back-end berbasis RESTful API, hingga implementasi antarmuka pengguna (front-end) yang responsif dan intuitif.
@@ -57,7 +57,6 @@ Berfokus pada pengembangan berkelanjutan dan penyempurnaan kualitas kode (clean 
   funFacts: [
     "Membangun sistem end-to-end: front-end, back-end, REST API, hingga basis data.",
     "Berpengalaman merancang basis data dengan ERD dan memodelkan sistem menggunakan UML.",
-    "Pindah dari Teknik Kendaraan Ringan ke Sistem Informasi terbukti cepat beradaptasi dan belajar hal baru.",
   ],
 };
 
@@ -195,7 +194,7 @@ const PROJECTS = [
       "Membangun aplikasi streaming bergaya Netflix secara full-stack antarmuka React dengan Redux Toolkit di front-end, dan REST API kustom berbasis Node.js di back-end untuk mendukung kebutuhan data aplikasi.",
 
     detail:
-      "Chill adalah project individu yang saya kerjakan secara mandiri, dari perancangan antarmuka hingga REST API di back-end bukan proyek tim. Di front-end, saya membangun antarmuka penjelajahan konten menggunakan React, dengan Redux Toolkit sebagai pengelola state dan Axios untuk komunikasi ke REST API. Di back-end, saya membangun REST API kustom menggunakan Node.js dengan service layer yang dipisahkan dari route (menangani operasi ambil semua data, ambil berdasarkan ID, tambah, ubah, dan hapus data film), lalu mengujinya sendiri menggunakan Postman sebelum diintegrasikan ke front-end. Fokus utama project ini adalah menghasilkan antarmuka yang responsif dan terstruktur rapi, didukung API yang benar-benar berfungsi, bukan sekadar data statis.",
+      "Chill merupakan individual project yang saya kembangkan secara mandiri dari awal hingga siap digunakan (end-to-end), mencakup perancangan arsitektur basis data, pengembangan front-end, hingga penyusunan back-end RESTful API. Proyek ini berfokus pada pembangunan platform penjelajahan media yang tidak hanya memiliki antarmuka responsif dan terstruktur rapi, tetapi juga didukung oleh ekosistem back-end dinamis yang sepenuhnya fungsional, bukan sekadar tampilan berdata statis.Pada sisi front-end, saya membangun antarmuka pengguna berbasis React.js dengan mengimplementasikan konsep reusable components dan desain yang responsif. Pengelolaan state aplikasi dikelola secara terpusat menggunakan Redux Toolkit untuk memastikan aliran data antar komponen berjalan efisien, sementara Axios digunakan untuk menangani komunikasi data asynchronous dengan REST API. Pendekatan ini memungkinkan penanganan operasi Create, Read, Update, dan Delete (CRUD) pada antarmuka penjelajahan konten secara real-time.Di sisi back-end, saya merancang arsitektur RESTful API kustom menggunakan Node.js dan Express.js dengan menerapkan pemisahan service layer secara terstruktur dari route. API ini mendukung operasi basis data penuh (GET, POST, PATCH, DELETE) serta dilengkapi dengan fitur keamanan JWT Authentication, mekanisme pengunggahan gambar (image upload), integrasi layanan kirim email, serta logika bisnis kompleks seperti fungsi search, filter, dan sorting. Sebelum diintegrasikan ke front-end, seluruh endpoint telah diuji secara mandiri menggunakan Postman.Sebelum tahap pengkodean, arsitektur data dirancang terlebih dahulu menggunakan Entity Relationship Diagram (ERD) untuk memastikan struktur basis data relasional terorganisir dengan baik. Seluruh proses pengembangan dikelola menggunakan kontrol versi Git/GitHub dengan menerapkan prinsip clean code, kerapihan struktur direktori, serta penanganan konflik kode (VCS Conflict Management) secara efektif untuk menjaga kualitas dan performa sistem secara optimal.",
 
     tags: [
       "React",
