@@ -37,9 +37,9 @@ const PROFILE = {
   initials: "MFA",
   role: "Fullstack Web Developer",
 
-  tagline:"Fullstack Web Developer yang mengubah kebutuhan bisnis menjadi aplikasi web nyata — mulai dari analisis kebutuhan, perancangan sistem, pengembangan front-end dan back-end, hingga deployment ke production. Terbiasa membangun sistem end-to-end yang benar-benar siap dipakai, bukan sekadar prototipe.",
+  tagline:"Fullstack Web Developer yang mengubah kebutuhan bisnis menjadi aplikasi web nyata mulai dari analisis kebutuhan, perancangan sistem, pengembangan front-end dan back-end, hingga deployment ke production. Terbiasa membangun sistem end-to-end yang benar-benar siap dipakai, bukan sekadar prototipe.",
   location: "Tangerang, Indonesia",
-  email: "muhamadfakhlarifin17@gmail.com",
+  email: "muhamadfakhrularifin17@gmail.com",
   github:"https://github.com/Fakhrul-17",
   linkedin:"https://www.linkedin.com/in/muhamadfakhrul-arifin-25629b3a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   whatsapp: "62895359804169",
@@ -48,16 +48,16 @@ const PROFILE = {
     "assets/CV_Mohamad_Fakhrul_Arifin.pdf",
 
   aboutMe: `
-Saya Muhamad Fakhrul Arifin, Fullstack Web Developer dengan latar belakang mahasiswa Sistem Informasi. Saya membangun aplikasi web secara menyeluruh — merancang basis data, mengembangkan back-end dan REST API, hingga menyusun antarmuka yang siap dipakai pengguna.
-Perjalanan saya ke dunia teknologi tidak lurus: saya berlatar belakang pendidikan Teknik Kendaraan Ringan sebelum pindah ke Sistem Informasi. Perpindahan ini mengajarkan saya untuk cepat beradaptasi, belajar secara mandiri, dan berani memulai dari nol — kemampuan yang sekarang menjadi salah satu kekuatan saya sebagai developer.
-Saya telah membangun beberapa aplikasi nyata menggunakan React, Node.js, Express, dan MySQL, mulai dari website company profile untuk klien, aplikasi streaming dengan REST API kustom, hingga sistem pendaftaran sekolah berbasis web lengkap dengan autentikasi dan basis data. Bagi saya, setiap error dan kesulitan dalam mengerjakan project bukan hambatan, melainkan bagian dari proses menjadi developer yang lebih baik.
-Ke depannya, saya ingin terus berkembang sebagai Web Developer atau Software Developer profesional, membangun produk digital yang benar-benar dipakai dan memberi manfaat bagi penggunanya.
+Saya Muhamad Fakhrul Arifin, seorang Fullstack Web Developer dan mahasiswa Sistem Informasi dengan spesialisasi dalam rekayasa perangkat lunak secara end-to-end. Kapabilitas saya mencakup perancangan arsitektur basis data, pengembangan back-end berbasis RESTful API, hingga implementasi antarmuka pengguna (front-end) yang responsif dan intuitif.
+Alih jalur akademik dari Teknik Kendaraan Ringan ke Sistem Informasi membentuk fondasi komparatif yang melatih kemampuan adaptasi cepat, metodologi pemecahan masalah (problem-solving), serta kemandirian belajar yang tinggi. Pengalaman mendasar ini menjadi landasan analitis saya dalam menghadapi kompleksitas pengembangan perangkat lunak.
+Secara praktis, saya telah mengimplementasikan stack teknologi modern—seperti React, Node.js, Express, dan MySQL—dalam berbagai proyek nyata. Portofolio saya meliputi pengembangan situs company profile komersial, platform streaming dengan arsitektur REST API kustom, hingga sistem informasi pendaftaran sekolah terintegrasi dengan mekanisme autentikasi dan pengelolaan basis data relasional.
+Berfokus pada pengembangan berkelanjutan dan penyempurnaan kualitas kode (clean code), saya berkomitmen untuk berkontribusi sebagai Software Developer profesional yang mampu merancang solusi digital yang andal, scalable, serta memberikan nilai guna nyata bagi para pengguna.
 `,
 
   funFacts: [
     "Membangun sistem end-to-end: front-end, back-end, REST API, hingga basis data.",
     "Berpengalaman merancang basis data dengan ERD dan memodelkan sistem menggunakan UML.",
-    "Pindah dari Teknik Kendaraan Ringan ke Sistem Informasi — terbukti cepat beradaptasi dan belajar hal baru.",
+    "Pindah dari Teknik Kendaraan Ringan ke Sistem Informasi terbukti cepat beradaptasi dan belajar hal baru.",
   ],
 };
 
@@ -80,6 +80,7 @@ const CREDENTIALS = [
     org: "Harisenin.com",
     period: "Selesai",
     note:"Mengikuti pelatihan pengembangan aplikasi web fullstack yang mencakup front-end, back-end, database, API, dan deployment.",
+    certificateUrl: "assets/Sertifikat Mohamad Fakhrul Arifin.pdf",
   },
 ];
 
@@ -155,10 +156,10 @@ const PROJECTS = [
     year: "2026",
 
     description:
-      "Membangun website company profile untuk klien konsultan pajak dan cukai secara end-to-end — dari analisis kebutuhan, desain antarmuka, hingga deployment ke domain produksi. Dilengkapi optimasi SEO on-page dan tampilan responsif penuh di seluruh perangkat.",
+      "Membangun website company profile untuk klien konsultan pajak dan cukai secara end-to-end dari analisis kebutuhan, desain antarmuka, hingga deployment ke domain produksi. Dilengkapi optimasi SEO on-page dan tampilan responsif penuh di seluruh perangkat.",
 
     detail:
-      "Website ini dibuat untuk klien konsultan pajak dan cukai, Anggrayini Nove Tax & Excise Consultant, sebagai kanal informasi resmi mengenai layanan yang mereka tawarkan. Saya menangani seluruh prosesnya secara end-to-end: menyusun struktur halaman dan desain antarmuka bertema gradient gelap dengan aksen emas sesuai identitas klien, membangun halaman menggunakan HTML, CSS, dan JavaScript, memastikan tampilan sepenuhnya responsif di desktop maupun mobile, hingga menerapkan optimasi SEO on-page (meta tag, sitemap.xml, dan robots.txt) agar mudah ditemukan di mesin pencari. Setelah pengembangan selesai, saya juga menangani deployment ke domain produksi melalui Hostinger dan memverifikasi properti website di Google Search Console — website ini sudah live dan dipakai klien.",
+      "Website ini dibuat untuk klien konsultan pajak dan cukai, Anggrayini Nove Tax & Excise Consultant, sebagai kanal informasi resmi mengenai layanan yang mereka tawarkan. Saya menangani seluruh prosesnya secara end-to-end: menyusun struktur halaman dan desain antarmuka bertema gradient gelap dengan aksen emas sesuai identitas klien, membangun halaman menggunakan HTML, CSS, dan JavaScript, memastikan tampilan sepenuhnya responsif di desktop maupun mobile, hingga menerapkan optimasi SEO on-page (meta tag, sitemap.xml, dan robots.txt) agar mudah ditemukan di mesin pencari. Setelah pengembangan selesai, saya juga menangani deployment ke domain produksi melalui Hostinger dan memverifikasi properti website di Google Search Console website ini sudah live dan dipakai klien.",
 
     tags: [
       "HTML",
@@ -191,10 +192,10 @@ const PROJECTS = [
     year: "2026",
 
     description:
-      "Membangun aplikasi streaming bergaya Netflix secara full-stack — antarmuka React dengan Redux Toolkit di front-end, dan REST API kustom berbasis Node.js di back-end untuk mendukung kebutuhan data aplikasi.",
+      "Membangun aplikasi streaming bergaya Netflix secara full-stack antarmuka React dengan Redux Toolkit di front-end, dan REST API kustom berbasis Node.js di back-end untuk mendukung kebutuhan data aplikasi.",
 
     detail:
-      "Chill adalah project individu yang saya kerjakan secara mandiri, dari perancangan antarmuka hingga REST API di back-end — bukan proyek tim. Di front-end, saya membangun antarmuka penjelajahan konten menggunakan React, dengan Redux Toolkit sebagai pengelola state dan Axios untuk komunikasi ke REST API. Di back-end, saya membangun REST API kustom menggunakan Node.js dengan service layer yang dipisahkan dari route (menangani operasi ambil semua data, ambil berdasarkan ID, tambah, ubah, dan hapus data film), lalu mengujinya sendiri menggunakan Postman sebelum diintegrasikan ke front-end. Fokus utama project ini adalah menghasilkan antarmuka yang responsif dan terstruktur rapi, didukung API yang benar-benar berfungsi, bukan sekadar data statis.",
+      "Chill adalah project individu yang saya kerjakan secara mandiri, dari perancangan antarmuka hingga REST API di back-end bukan proyek tim. Di front-end, saya membangun antarmuka penjelajahan konten menggunakan React, dengan Redux Toolkit sebagai pengelola state dan Axios untuk komunikasi ke REST API. Di back-end, saya membangun REST API kustom menggunakan Node.js dengan service layer yang dipisahkan dari route (menangani operasi ambil semua data, ambil berdasarkan ID, tambah, ubah, dan hapus data film), lalu mengujinya sendiri menggunakan Postman sebelum diintegrasikan ke front-end. Fokus utama project ini adalah menghasilkan antarmuka yang responsif dan terstruktur rapi, didukung API yang benar-benar berfungsi, bukan sekadar data statis.",
 
     tags: [
       "React",
@@ -207,11 +208,11 @@ const PROJECTS = [
     ],
 
     role:
-      "Individual Project — Merancang & Membangun Front-End (React) dan Back-End REST API (Node.js) Secara Mandiri",
+      "Individual Project, Merancang & Membangun Front-End (React) dan Back-End REST API (Node.js) Secara Mandiri",
 
     link: null,
 
-    repo: null,
+    repo: "https://github.com/Fakhrul-17/chill-App.git",
 
     images: [
       "assets/projects/CA1.png",
@@ -228,15 +229,15 @@ const PROJECTS = [
 
   {
     id: "03",
-    title: "RA Haniyah — Sistem Pendaftaran Siswa Baru (PPDB)",
+    title: "RA Haniyah Sistem Pendaftaran Siswa Baru (PPDB)",
     category: "Full-Stack Web App",
     year: "2026",
 
     description:
-      "Membangun sistem pendaftaran siswa baru (PPDB) online untuk RA Haniyah secara full-stack — dari halaman pendaftaran publik hingga dashboard admin untuk memverifikasi dan mengelola data pendaftar.",
+      "Membangun sistem pendaftaran siswa baru (PPDB) online untuk RA Haniyah secara full-stack dari halaman pendaftaran publik hingga dashboard admin untuk memverifikasi dan mengelola data pendaftar.",
 
     detail:
-      "RA Haniyah — Sistem Pendaftaran Siswa Baru adalah project full-stack yang saya bangun untuk mendigitalkan proses PPDB sekolah. Di front-end, saya membangun landing page, formulir pendaftaran multi-langkah dengan validasi, halaman cek status pendaftaran, serta dashboard admin, menggunakan React dan Vite. Di back-end, saya membangun REST API menggunakan Node.js dan Express yang terhubung ke database MySQL, dilengkapi autentikasi admin berbasis JWT dan fitur upload dokumen pendaftaran menggunakan multer. Dashboard admin memungkinkan pihak sekolah memverifikasi pendaftar, mengelola gelombang pendaftaran, serta mengekspor data ke PDF dan Excel. Project ini menjadi bukti nyata kemampuan saya membangun sistem secara menyeluruh — dari analisis kebutuhan hingga aplikasi yang benar-benar berjalan dan bisa dipakai.",
+      "RA Haniyah, Sistem Pendaftaran Siswa Baru adalah project full-stack yang saya bangun untuk mendigitalkan proses PPDB sekolah. Di front-end, saya membangun landing page, formulir pendaftaran multi-langkah dengan validasi, halaman cek status pendaftaran, serta dashboard admin, menggunakan React dan Vite. Di back-end, saya membangun REST API menggunakan Node.js dan Express yang terhubung ke database MySQL, dilengkapi autentikasi admin berbasis JWT dan fitur upload dokumen pendaftaran menggunakan multer. Dashboard admin memungkinkan pihak sekolah memverifikasi pendaftar, mengelola gelombang pendaftaran, serta mengekspor data ke PDF dan Excel. Project ini menjadi bukti nyata kemampuan saya membangun sistem secara menyeluruh dari analisis kebutuhan hingga aplikasi yang benar-benar berjalan dan bisa dipakai.",
 
     tags: [
       "React",
@@ -252,7 +253,7 @@ const PROJECTS = [
 
     link: null,
 
-    repo: null,
+    repo: "https://github.com/Fakhrul-17/Pendaftaran-Sekolah-RA-Haniyah.git",
 
     images: [
       "assets/projects/RA1.png",
@@ -1394,6 +1395,59 @@ const AboutSection = ({
                         credential.note
                       }
                     </p>
+                    {credential.certificateUrl && (
+                    <div className="flex flex-col sm:flex-row gap-3 mt-5">
+                      <a
+                        href={credential.certificateUrl}
+                        download
+                        className="
+                          inline-flex
+                          items-center
+                          justify-center
+                          gap-2
+                          px-4
+                          py-2.5
+                          rounded-lg
+                          bg-blue-500
+                          text-white
+                          text-sm
+                          font-semibold
+                          hover:bg-blue-600
+                          transition-all
+                        "
+                      >
+                        <Download size={16} />
+                        Unduh Sertifikat
+                      </a>
+
+                      <a
+                        href={credential.certificateUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                        className={`
+                          inline-flex
+                          items-center
+                          justify-center
+                          gap-2
+                          px-4
+                          py-2.5
+                          rounded-lg
+                          border
+                          text-sm
+                          font-semibold
+                          transition-all
+                          ${
+                            dark
+                              ? "border-slate-600 text-white hover:bg-slate-800"
+                              : "border-gray-300 text-gray-800 hover:bg-gray-100"
+                          }
+                        `}
+                      >
+                        Lihat
+                        <ExternalLink size={16} />
+                      </a>
+                    </div>
+                  )}
                   </div>
                 )
               )}
